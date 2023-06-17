@@ -10,7 +10,7 @@ const generateCSS = () => {
             height: 100%;
         }
         header {
-            background-color: #2196F3;
+            background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");
             color: white;
             text-align: center;
             padding: 1em;
