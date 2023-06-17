@@ -6,6 +6,7 @@ const generateCSS = () => {
             padding: 0;
         }
         body, html {
+            background-color: rgb(171, 1, 50);
             font-family: Arial, sans-serif;
             height: 100%;
         }
